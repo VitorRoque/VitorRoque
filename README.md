@@ -35,8 +35,8 @@ Hoje com um mundo cada vez mais digital, aprender sobre tecnologia também se fa
 
 <div>
   <a href = "https://github.com/VitorRoque">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=VitorRoque&show_icons=true&theme=radical"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRoque&layout=compact&theme=radical"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=VitorRoque&show_icons=true&theme=radical"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRoque&layout=compact&theme=radical"/>
  </div>
     
 
