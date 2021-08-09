@@ -19,8 +19,8 @@ Gosto de me apresentar falando que sou do Rio, por que isso diz muito sobre a mi
 Gosto de gente, da simplicidade da vida, da rua e da sua diversidade.  
 Nos meus momentos de lazer gosto de aproveitar as belezas dessa cidade, seja em contato com a natureza ou 🍻 😂.  
 Apesar da minha formação em economia, também gosto bastante de tecnologia e programação.  
-Escolhi as Ciências Econômicas como área de interesse, por uma necessidade de entender como o mundo funciona.  
-Hoje com um mundo cada vez mais digital, aprender sobre tecnologia também se faz necessário.  
+Escolhi as Ciências Econômicas como área de interesse, para saciar a minha curiosidade e desejo de entender como o mundo funciona.  
+Hoje com um mundo cada vez mais digital, aprender sobre tecnologia também se faz necessário para suprir essa curiosidade.  
 ##
 
 ### Tenho interesse em:
